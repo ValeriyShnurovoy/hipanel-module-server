@@ -44,8 +44,8 @@
     ],
     "require": {
         "yiisoft/yii2": "2.*",
-        "hiqdev/hipanel-module-client": "<2.0 || dev-master",
-        "hiqdev/hipanel-module-finance": "<2.0 || dev-master",
+        "hiqdev/hipanel-module-client": "<2.0 || dev-php8",
+        "hiqdev/hipanel-module-finance": "<2.0 || dev-php8",
         "omnilight/yii2-bootstrap-daterangepicker": "*"
     },
     "require-dev": {
